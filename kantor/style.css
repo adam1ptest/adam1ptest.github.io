@@ -1,0 +1,28 @@
+html{
+    background-color: rgb(59, 235, 103);
+    
+    
+}
+h1{
+    text-align: center;
+    font: bold;
+    border: solid;
+    border-radius: 20px; 
+    
+
+}
+ul{
+text-align: center;
+float: right;
+border-style: double;
+border-radius: 15px;
+border-color: black;
+
+}
+input{
+    width: 300px;
+     text-align: center;
+}
+button{
+    width: 400px;
+}
